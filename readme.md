@@ -12,3 +12,6 @@ for DB used by sequelize. install <font color="lightblue">sequelize</font> as gl
 
 ##Run project
 node server.js
+
+##Run tests
+npm run test
